@@ -1,0 +1,12 @@
+:root{
+    --bgCor : #E06B69;
+}
+/* Configurações Do Banner imagem de One Piece */
+.banner{
+    background-color: var(--bgCor);
+    text-align: center;
+}
+
+.banner img{
+    max-width: 100%;
+}
